@@ -1,0 +1,7 @@
+# New Feature Text
+
+Welcome to the new feature!
+
+This is a sample text file for demonstrating the new feature. You can use this file to test and explore the functionality added in this feature. Feel free to modify and experiment with the content.
+
+**Happy coding!**
